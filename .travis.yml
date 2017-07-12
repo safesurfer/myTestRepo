@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - "6"
 before_script:
-  - composer config github-oauth.github.com ${GH_TOKEN}
+  - composer config github-oauth.github.com ${642cd8b6ce42bacc7f621b930daf797f6b01cd59}
   - npm install
 script:
   - node app.js &
