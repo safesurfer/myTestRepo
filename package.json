@@ -1,6 +1,6 @@
 {
   "name": "mocha-testing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple app for testing",
   "main": "app.js",
   "scripts": {
